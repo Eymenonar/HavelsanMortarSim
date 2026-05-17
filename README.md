@@ -11,7 +11,7 @@ Karakter ile sahnede dolaşıyorsun, etrafa rastgele dağılmış havan topu mer
 ## Özellikler
 
 ### Karakter Kontrolü
-- Standart third-person karakter — WASD ile yürüme, mouse ile kamera, space ile zıplama.
+- Standart third person karakter WASD ile yürüme, mouse ile kamera, space ile zıplama.
 - Havan topuna yaklaşıp E 'ye basınca karakteri bırakıp havana geçiyorsun. Tekrar E ile karaktere dönüyorsun.
 - Havana geçince karakter sahneden gözden kayboluyor, geri dönünce yine görünür hale geliyor.
 
