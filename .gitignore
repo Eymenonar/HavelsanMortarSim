@@ -1,0 +1,45 @@
+# Unreal Engine generated folders
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Plugin binaries / intermediate
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# IDE / build files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj/
+*.xcworkspace/
+
+# Built lightmap data (regenerated)
+*_BuiltData.uasset
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.o
+*.obj
+*.pch
+*.gch
+
+# Logs
+*.log
